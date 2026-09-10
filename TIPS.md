@@ -26,3 +26,5 @@
 - Tip 15: Contributing regularly to public open-source builds your developer graph.
 
 - Tip 16: Contributing regularly to public open-source builds your developer graph.
+
+- Tip 18: Milestone reached! 16 merged pull requests.
