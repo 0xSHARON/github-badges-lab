@@ -10,3 +10,5 @@
 - Tip 7: Contributing regularly to public open-source builds your developer graph.
 
 - Tip 8: Contributing regularly to public open-source builds your developer graph.
+
+- Tip 9: Contributing regularly to public open-source builds your developer graph.
